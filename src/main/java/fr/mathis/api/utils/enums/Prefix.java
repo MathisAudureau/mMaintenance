@@ -5,7 +5,7 @@ import fr.mathis.api.message.Decoration;
 
 public enum Prefix {
 
-    DEFAULT(Color.GOLD + Decoration.BOLD + "KenaliaMC" + Color.GRAY + Decoration.BOLD + " > "),
+    DEFAULT(Color.GOLD + Decoration.BOLD + "mMaintenance" + Color.GRAY + Decoration.BOLD + " > "),
     ERROR(Color.DARK_RED + Decoration.BOLD + "Erreur" + Color.GRAY + Decoration.BOLD + " > ");
 
     private final String value;

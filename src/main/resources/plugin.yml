@@ -1,0 +1,8 @@
+name: sMaintenance
+main: fr.mathis.smaintenance.sMaintenance
+author: Mathis Audureau
+version: 1.0.0
+api-version: 1.0.0
+commands:
+  maintenance:
+    description: "Commande permettant de passer le serveur en phase de maintenance."

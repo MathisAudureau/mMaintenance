@@ -1,1 +1,0 @@
-Temps de vidéo: minutes 52

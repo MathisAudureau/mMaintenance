@@ -11,7 +11,7 @@ public class Line {
     }
 
     public static String chatLine() {
-        return "*----------------------------------------------------*";
+        return "§8§m--------------------";
     }
 
 }
